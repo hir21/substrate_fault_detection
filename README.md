@@ -20,7 +20,10 @@ A classification methodology made for Nirma University Labs to predict the quali
 
  <b>=> DATA :</b> 592 columns for training and 591 columns for prediction <br>
  <img src="data1.png"> <br>
- <img src="data2.png">
+ <img src="data2.png"> <br>
+ <b>=> UI :</b>
+  <img src="image.png">
+
 
 
  <b>=> PROJECT FLOW</b>
