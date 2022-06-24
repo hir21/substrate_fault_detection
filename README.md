@@ -1,5 +1,5 @@
 # SUBSTRATE FAULT DETECTION
-A classification methodology made for Nirma University Labs to predict the quality of wafer sensors based on the given training data.
+A classification methodology made for A Electronics Lab to predict the quality of wafer sensors based on the given training data.
 
  <b>=> OBJECTIVE OF THE PROJECT</b> <br>
  + This project builds a classification methodology to predict the quality of substrate sensors based on the given training data. It helps in identifying the perticular substrate that is faulty so that it can be replaced without disturbing the whole production line. Based on the prediction the alarm placed by the client will notify and then the faulty substrate can be replaced by stopping that particular section of work. 
